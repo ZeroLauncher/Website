@@ -1,1 +1,1 @@
-# ZeroLauncher.com
+https://zerolauncher.github.io/Website/
