@@ -1,1 +1,2 @@
-https://zerolauncher.github.io/Website/
+The page:
+https://zerolauncher.github.io/page/
